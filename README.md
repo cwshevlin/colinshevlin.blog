@@ -1,4 +1,6 @@
-# base blog
+# colinshevlin.blog
+
+Based on [blog base](https://github.com/cwshevlin/blog-base). 
 
 ## To add a page
 
