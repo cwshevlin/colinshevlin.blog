@@ -1,6 +1,6 @@
 AUTHOR = 'Colin Shevlin'
 SITENAME = "Colin's Blog"
-SITEURL = "https://colinshevlin.blog"
+SITEURL = "https://colinshevlin.blog/"
 
 PATH = "content"
 
@@ -11,6 +11,7 @@ DEFAULT_LANG = 'en'
 DEFAULT_PAGINATION = 3
 
 # Feed generation is usually not desired when developing
+FEED_RSS = 'feeds/all.rss.xml'
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
