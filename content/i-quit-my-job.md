@@ -8,7 +8,7 @@ Summary: Welcome to 2005
 
 Well I quit my job and I'm busier than ever. 
 
-# Welcome to 2005.
+### Welcome to 2005.
 
 To talk about all the things I'm doing, I'm starting a blog at colinshevlin.blog complete with an RSS feed and html pages. Old ways are sometimes the best ways. 
 
@@ -16,7 +16,7 @@ I like the simplicity, and I also like that there's no following or subscription
 
 You may be reading this on Substack, and that's cool. I'm going to duplicate posts from colinshevlin.blog onto Substack so that people can do whatever they want. I just think having an html blog is neat. 
 
-## What you'll find here
+### What you'll find here
 
 I'm in the middle of reconfiguring my life. I quit my software job in hopes of doing more work that aligns with things I care about: work around bikes, immigration, and the climate. 
 
