@@ -1,6 +1,6 @@
 Title: I quit my job
 Date: 2026-09-16 10:20
-Category: Work, Bikepacking
+Category: Posts
 Tags: work, bikepacking
 Slug: i-quit-my-job
 Authors: Colin Shevlin
