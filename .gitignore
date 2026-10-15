@@ -1,4 +1,6 @@
 .DS_Store
 **/.DS_Store
 
+# Built by Netlify on deploy (see netlify.toml); don't commit it.
+output/
 __pycache__/
