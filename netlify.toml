@@ -1,0 +1,8 @@
+# Netlify builds the site from source on every deploy, so output/ doesn't
+# need to be committed.
+[build]
+  command = "make html"
+  publish = "output"
+
+[build.environment]
+  PYTHON_VERSION = "3.13"

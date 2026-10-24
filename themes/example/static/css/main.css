@@ -25,6 +25,16 @@ h4 a { color: inherit !important }
 h5 a { color: inherit !important }
 h6 a { color: inherit !important }
 
+/* Explicit heading sizes so a post's title always outranks the headings
+   inside it. Post titles are <h2>, but a "# Heading" in Markdown becomes an
+   <h1>, which the browser defaults would render larger than the title. */
+body > header h1 { font-size: 2.5em; }
+article > header h2 { font-size: 2em; }
+article h1 { font-size: 1.5em; }
+article h2 { font-size: 1.3em; }
+article h3 { font-size: 1.15em; }
+article h4, article h5, article h6 { font-size: 1em; }
+
 #menu li {
     display: inline;
 }
@@ -47,11 +57,30 @@ article {
     padding-top: 1em;
 }
 
+/* Cap the height so portrait photos fit on screen instead of running
+   ~1000px tall. The vertical margin collapses with a wrapping <p>'s own
+   margin, so the gap is the same whether a Markdown image sits on its own
+   line or directly against a line of text. */
 img {
+    display: block;
     max-width: 100%;
+    max-height: 70vh;
     height: auto;
-    margin: 0 auto;
-    display: inherit;
+    margin: 2em auto;
+    border-radius: 5px;
+}
+
+figure {
+    margin: 2em 0;
+}
+
+figure img {
+    margin-bottom: 0.5em;
+}
+
+figcaption {
+    text-align: center;
+    font-size: 0.9em;
 }
 
 @media (max-width: 600px) {

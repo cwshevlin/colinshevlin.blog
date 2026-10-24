@@ -69,6 +69,9 @@
       </main>
       <footer>
         {% block footer %}
+          {% if FEED_RSS %}
+            <p><a href="{{ SITEURL }}/{% if FEED_RSS_URL %}{{ FEED_RSS_URL }}{% else %}{{ FEED_RSS }}{% endif %}" type="application/rss+xml">RSS feed</a></p>
+          {% endif %}
           <address>
             Proudly powered by <a rel="nofollow" href="https://getpelican.com/">Pelican</a>,
             which takes great advantage of <a rel="nofollow" href="https://www.python.org/">Python</a>.
