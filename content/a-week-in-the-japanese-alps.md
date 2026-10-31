@@ -18,7 +18,7 @@ We find a relatively quiet corner outside of Shinjuku, take apart our bikes, put
 ![On a busy sidewalk in Shinjuku, Steven bends over a lime-green bike with red grips, sorting bags before packing it up for the train, as pedestrians and tour buses pass behind](https://lh3.googleusercontent.com/pw/AP1GczPQISkgW9fi-jFflcBIYwTypvN7Tp-BQU5QUAtNM_nkAi93XAFi4C7uRhLRVzsfQgQTJxE8LzM-rjapEMyJUDYrplVXXr877R43I7p1lu6UGx0o0gcA2ohXf5WyfV7uwKQO7vpyS6dKEREAhNCesScX0A=w627-h836-s-no?authuser=0)
 {: .gallery }
 
-Steven's routes are some of the best I've ever ridden. The first day we saw some incredible mountain roads and incredible brickwork on railroad infrastructure spiraling up the mountain. We stayed in Karuizawa the first night, which was way too fancy for either of us. We are, however, both huge Terrace House fans so we had to stay near where they filmed the season that takes place in Nagano.
+Steven’s routes are some of the best I’ve ever ridden. The first day we saw some twisting mountain roads and impressive brickwork on railroad infrastructure spiraling up the mountain. We stayed in Karuizawa the first night, which was way too fancy for either of us. We are, however, both huge Terrace House fans. We simply had to stay near where they filmed the season that takes place in Nagano. 
 
 Our accommodations were not fancy: we were in a backpacking hostel that was very cool and very chill. The manager Yusuke confirmed the sickness of Steven's routes and gave us some places to check out along the way. 
 
@@ -35,7 +35,7 @@ We stayed in another backpacking hostel in Matsumoto and started our day by drop
 ![At a Yamato Transport counter, an employee in a green uniform and apron writes the address on a cardboard box with a black cat logo while Steven looks on](https://lh3.googleusercontent.com/pw/AP1GczO1p9P8uT--2hetpBe46ydzTyI_lv7zONXWZc_TTqf7PftgvPVveYEf-iyOsambh5TGtODBSPNDO97rNwytAIFyG2SiBOan-OhNZjn2iSWsswt6oJQt0GOI9bLtyzUaXzMoRuRnx6FhzgjHucOJvxAzYA=w1124-h1498-s-no?authuser=0)
 {: .gallery }
 
-We had a long climb up route 158 with a stream next to us that was both vibrantly teal and clear. Our descent into Hirayu was cold and wet but very fast and fun. We got into our accommodations dripping from the mist outside and chilled to the bone. Our hotelier rushed to get us out of our dripping wet jackets and shoes and get us checked into our room. We had a private onsen connected to our room that night that warmed us up from the cold ride down the mountain. 
+We had a long climb up route 158 with a stream next to us that was both vibrantly teal and clear as glass. Our descent into Hirayu was cold and wet but very fast and fun. We got into our accommodations dripping from the mist outside and chilled to the bone. Our hotelier rushed to get us out of our dripping wet jackets and shoes and get us checked into our room. We had a private onsen connected to our room that night that warmed us up from the cold ride down the mountain. 
 
 ![Our room's private onsen: a square wooden soaking tub full of water, light wood-paneled walls and frosted windows, and a dark tiled washing area with a small wooden stool and bucket](https://lh3.googleusercontent.com/pw/AP1GczM4wCqaqeilbON1Qg4fdpyi1KkBrwpPtovhROrbQMIjk1wzeSiL11us01gDa1Ubz8UoPhvouXPkAJEoAphzeh20p1mABKR5LtqHWXvZxYa8zpZfb_P_v9kh_QlQf5tKvRtXi4TSrUDmA_9KZZRhCBPOZg=w1124-h1498-s-no?authuser=0)
 {: .gallery }
@@ -53,9 +53,8 @@ We ended our time in the Kiso valley biking the Sapphire Road into the Atera val
 ![Our two loaded bikes, one lime green and one dark green, parked on gravel beside a small white pickup truck with a green tarp in a sunny mountain town](https://lh3.googleusercontent.com/pw/AP1GczO-2bJRc96jDXgLmJpsAL1llZZl2Gvep1M1ydcqHzvtxb85lhVaqEJFpJo-4bdZKRTuiRaYF2-ZVXO-LyE-74M2dkJppPtGTh81wbvXFrgS4f6DODBRUYBiPiKdmTOWC1cHrwZS9eIEKRbkVnB3nyN9JQ=w1124-h1498-s-no?authuser=0)
 {: .gallery }
 
+The next morning we descended the Sapphire road and incredibly ran into our New Zealand friend for a fifth time at the bottom. We were leaving the region that day, so we had to say our goodbyes but I still think about the odds against running into someone so often across so much land. 
 
-The next morning we descended the Sapphire road and incredibly ran into our New Zealand friend again at the bottom. We were leaving the region that day, so we had to say our goodbyes but I still think about the odds against running into someone so often across so much land. 
-
-We left Nagano via the Shinkansen, traveling at around 170 mph towards Kyoto.
+We left Nagano via the Shinkansen, traveling at around 170 mph towards Kyoto and the next phase of our trip.
 
 _Find our routes on [RideWithGPS](https://ridewithgps.com/collections/12142038?privacy_code=lwJbmrOaxzIDgFbECEDJH8rLpUuIw5AZ)._
