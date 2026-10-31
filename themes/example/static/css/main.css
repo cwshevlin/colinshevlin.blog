@@ -70,6 +70,24 @@ img {
     border-radius: 5px;
 }
 
+/* Images tagged {: .gallery } in Markdown share one row. The script in
+   base.html sets each photo's flex-grow to its aspect ratio, so the row's
+   width is split in proportion and every photo comes out the same height,
+   uncropped, whatever mix of portrait and landscape it holds. */
+.gallery {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.5em;
+    margin: 2em 0;
+}
+
+.gallery img {
+    flex: 1 1 0;
+    min-width: 0;
+    max-height: none;
+    margin: 0;
+}
+
 figure {
     margin: 2em 0;
 }
