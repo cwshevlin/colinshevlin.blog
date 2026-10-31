@@ -6,7 +6,7 @@ Slug: a-week-in-the-japanese-alps
 Authors: Colin Shevlin
 Summary: Bikepacking through the Japanese alps is maybe the only bikepacking route you need.
 
-Steven and I discuss they day's itinerary over oat milk lattes at Paddler's Coffee in Tokyo. We were already in a good mood because they remembered us. Regular status. Paddler's is a great place to have a quiet morning and maybe pet a dog. 
+Steven and I discuss the day's itinerary over oat milk lattes at Paddler's Coffee in Tokyo. We were already in a good mood because they remembered us. Regular status. Paddler's is a great place to have a quiet morning and maybe pet a dog. 
 
 ![Two coffees on little round wooden stools on the deck at Paddler's Coffee, a black coffee in a hand-painted ceramic mug and a latte in a white cup, with our feet poking into the frame and plants behind](https://lh3.googleusercontent.com/pw/AP1GczMvQGP82qZM2UM2gUZV3zHM24C61qY2G7JaTRS-r1XDoqt_SpGIMWeIIhiLtGPyOPWIZlmCAGjo4svJKdtSTSmQUTw5HC8HACsi4KSflKJAP1jxqHxLzA1c8xuvLN3Tuz9TgFuzBDescisIH6h0xkRUBw=w1124-h1498-s-no?authuser=0)
 {: .gallery }
@@ -20,7 +20,7 @@ We find a relatively quiet corner outside of Shinjuku, take apart our bikes, put
 
 Steven's routes are some of the best I've ever ridden. The first day we saw some incredible mountain roads and incredible brickwork on railroad infrastructure spiraling up the mountain. We stayed in Karuizawa the first night, which was way too fancy for either of us. We are, however, both huge Terrace House fans so we had to stay near where they filmed the season that takes place in Nagano.
 
-Our accomodations were not fancy: we were in a backpacking hostel that was very cool and very chill. The manager Yusuke confirmed the sickness of Steven's routes and gave us some places to check out along the way. 
+Our accommodations were not fancy: we were in a backpacking hostel that was very cool and very chill. The manager Yusuke confirmed the sickness of Steven's routes and gave us some places to check out along the way. 
 
 ![A dark green gravel bike loaded with bikepacking bags leans against a tiled wall outside a 7-Eleven, next to an orange Japan Post mailbox](https://lh3.googleusercontent.com/pw/AP1GczNGh_8WF2JvjSDrg38EY8Kc1Guf1FZ7VSFZ18UCZhIbezU1djzRsIQUMHqvaVgAOKLhHNiCmZrEHsGGTvKT-iUdrGTBvlynPrtQwfzlqPGtOcHcrCFdf24wL31rQUe4ylSJbioFzCwDw5EKdYs4I5tojw=w1998-h1498-s-no?authuser=0)
 {: .gallery }
@@ -30,7 +30,7 @@ We took some trains to avoid the cold rain the night before, and ended up approa
 ![Seen through the rusty frame of an open-air shelter, Colin in sunglasses holding a snack beside our loaded bikes, with forested ridges and distant mountains stretching out under a cloudy sky](https://lh3.googleusercontent.com/pw/AP1GczM5t0uIK3yfey77pNjysi1QkBgefqGJzGSrmoWhgWSoOZfA3Fe-f7lvkW6iFZQtlVVw9ClIACMQxgXwSXklpLgLmH9qOBzR01wRQ-nxu_wIB393eW05uU3nLHY3oKzymIYmYNxH3FQMmImynFylDKLUoQ=w2000-h1500-s-no?authuser=0)
 {: .gallery }
 
-We stayed in another backpacking hostel in Matsumoto and started our day by dropping off unneeded weight at the Yamoto to send along to our hotel in a couple of days. The person who helped us was so sweet and kind and helped us address the box properly with nicely written kanji. Steven told her all about our travels in Japanese. 
+We stayed in another backpacking hostel in Matsumoto and started our day by dropping off unneeded weight at the Yamato to send along to our hotel in a couple of days. The person who helped us was so sweet and kind and helped us address the box properly with nicely written kanji. Steven told her all about our travels in Japanese. 
 
 ![At a Yamato Transport counter, an employee in a green uniform and apron writes the address on a cardboard box with a black cat logo while Steven looks on](https://lh3.googleusercontent.com/pw/AP1GczO1p9P8uT--2hetpBe46ydzTyI_lv7zONXWZc_TTqf7PftgvPVveYEf-iyOsambh5TGtODBSPNDO97rNwytAIFyG2SiBOan-OhNZjn2iSWsswt6oJQt0GOI9bLtyzUaXzMoRuRnx6FhzgjHucOJvxAzYA=w1124-h1498-s-no?authuser=0)
 {: .gallery }
@@ -38,6 +38,7 @@ We stayed in another backpacking hostel in Matsumoto and started our day by drop
 We had a long climb up route 158 with a stream next to us that was both vibrantly teal and clear. Our descent into Hirayu was cold and wet but very fast and fun. We got into our accommodations dripping from the mist outside and chilled to the bone. Our hotelier rushed to get us out of our dripping wet jackets and shoes and get us checked into our room. We had a private onsen connected to our room that night that warmed us up from the cold ride down the mountain. 
 
 ![Our room's private onsen: a square wooden soaking tub full of water, light wood-paneled walls and frosted windows, and a dark tiled washing area with a small wooden stool and bucket](https://lh3.googleusercontent.com/pw/AP1GczM4wCqaqeilbON1Qg4fdpyi1KkBrwpPtovhROrbQMIjk1wzeSiL11us01gDa1Ubz8UoPhvouXPkAJEoAphzeh20p1mABKR5LtqHWXvZxYa8zpZfb_P_v9kh_QlQf5tKvRtXi4TSrUDmA_9KZZRhCBPOZg=w1124-h1498-s-no?authuser=0)
+{: .gallery }
 
 The climb up Mt. Norikura had three distinct phases: waterfalls at the base, the woods from Twilight in the middle, and grass and an alpine lake above the tree line. This was the third consecutive day of breaking my lifetime climbing record and I was dragging. At some points I was going three miles an hour. Once we got over Norikura, we descended for 14 miles, transitioning from fall colors down to sunny green mountain towns. 
 
