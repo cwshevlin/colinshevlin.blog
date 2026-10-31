@@ -15,7 +15,7 @@ That day we needed to get to Shinjuku station, pack our bikes into rinko bags, b
 
 We find a relatively quiet corner outside of Shinjuku, take apart our bikes, put them in rinko bags, and get going. 
 
-![On a busy sidewalk in Shinjuku, one of us bends over a lime-green bike with red grips, sorting bags before packing it up for the train, as pedestrians and tour buses pass behind](https://lh3.googleusercontent.com/pw/AP1GczPQISkgW9fi-jFflcBIYwTypvN7Tp-BQU5QUAtNM_nkAi93XAFi4C7uRhLRVzsfQgQTJxE8LzM-rjapEMyJUDYrplVXXr877R43I7p1lu6UGx0o0gcA2ohXf5WyfV7uwKQO7vpyS6dKEREAhNCesScX0A=w627-h836-s-no?authuser=0)
+![On a busy sidewalk in Shinjuku, Steven bends over a lime-green bike with red grips, sorting bags before packing it up for the train, as pedestrians and tour buses pass behind](https://lh3.googleusercontent.com/pw/AP1GczPQISkgW9fi-jFflcBIYwTypvN7Tp-BQU5QUAtNM_nkAi93XAFi4C7uRhLRVzsfQgQTJxE8LzM-rjapEMyJUDYrplVXXr877R43I7p1lu6UGx0o0gcA2ohXf5WyfV7uwKQO7vpyS6dKEREAhNCesScX0A=w627-h836-s-no?authuser=0)
 {: .gallery }
 
 Steven's routes are some of the best I've ever ridden. The first day we saw some incredible mountain roads and incredible brickwork on railroad infrastructure spiraling up the mountain. We stayed in Karuizawa the first night, which was way too fancy for either of us. We are, however, both huge Terrace House fans so we had to stay near where they filmed the season that takes place in Nagano.
@@ -27,12 +27,12 @@ Our accomodations were not fancy: we were in a backpacking hostel that was very 
 
 We took some trains to avoid the cold rain the night before, and ended up approaching Lake Shirakaba via the Venus Line: a mountain route with amazing mountain views on the way up. We stopped in the world's fanciest konbini and continued to Utsukushigahara, an area of highlands where we saw a bunch of cows and talked to some high schoolers about our bike trip (Steven talked to them in Japanese and I tried to look friendly). The descent out of Utsukushigahara included a short gravel section and then 12 uninterrupted miles of descending on fresh pavement with very few cars. It was some of the most fun I've ever had on a bike. 
 
-![Seen through the rusty frame of an open-air shelter, one of us stands in sunglasses holding a snack beside our loaded bikes, with forested ridges and distant mountains stretching out under a cloudy sky](https://lh3.googleusercontent.com/pw/AP1GczM5t0uIK3yfey77pNjysi1QkBgefqGJzGSrmoWhgWSoOZfA3Fe-f7lvkW6iFZQtlVVw9ClIACMQxgXwSXklpLgLmH9qOBzR01wRQ-nxu_wIB393eW05uU3nLHY3oKzymIYmYNxH3FQMmImynFylDKLUoQ=w2000-h1500-s-no?authuser=0)
+![Seen through the rusty frame of an open-air shelter, Colin in sunglasses holding a snack beside our loaded bikes, with forested ridges and distant mountains stretching out under a cloudy sky](https://lh3.googleusercontent.com/pw/AP1GczM5t0uIK3yfey77pNjysi1QkBgefqGJzGSrmoWhgWSoOZfA3Fe-f7lvkW6iFZQtlVVw9ClIACMQxgXwSXklpLgLmH9qOBzR01wRQ-nxu_wIB393eW05uU3nLHY3oKzymIYmYNxH3FQMmImynFylDKLUoQ=w2000-h1500-s-no?authuser=0)
 {: .gallery }
 
 We stayed in another backpacking hostel in Matsumoto and started our day by dropping off unneeded weight at the Yamoto to send along to our hotel in a couple of days. The person who helped us was so sweet and kind and helped us address the box properly with nicely written kanji. Steven told her all about our travels in Japanese. 
 
-![At a Yamato Transport counter, an employee in a green uniform and apron writes the address on a cardboard box with a black cat logo while one of us looks on](https://lh3.googleusercontent.com/pw/AP1GczO1p9P8uT--2hetpBe46ydzTyI_lv7zONXWZc_TTqf7PftgvPVveYEf-iyOsambh5TGtODBSPNDO97rNwytAIFyG2SiBOan-OhNZjn2iSWsswt6oJQt0GOI9bLtyzUaXzMoRuRnx6FhzgjHucOJvxAzYA=w1124-h1498-s-no?authuser=0)
+![At a Yamato Transport counter, an employee in a green uniform and apron writes the address on a cardboard box with a black cat logo while Steven looks on](https://lh3.googleusercontent.com/pw/AP1GczO1p9P8uT--2hetpBe46ydzTyI_lv7zONXWZc_TTqf7PftgvPVveYEf-iyOsambh5TGtODBSPNDO97rNwytAIFyG2SiBOan-OhNZjn2iSWsswt6oJQt0GOI9bLtyzUaXzMoRuRnx6FhzgjHucOJvxAzYA=w1124-h1498-s-no?authuser=0)
 {: .gallery }
 
 We had a long climb up route 158 with a stream next to us that was both vibrantly teal and clear. Our descent into Hirayu was cold and wet but very fast and fun. We got into our accommodations dripping from the mist outside and chilled to the bone. Our hotelier rushed to get us out of our dripping wet jackets and shoes and get us checked into our room. We had a private onsen connected to our room that night that warmed us up from the cold ride down the mountain. 
