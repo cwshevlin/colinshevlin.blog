@@ -56,4 +56,6 @@ We ended our time in the Kiso valley biking the Sapphire Road into the Atera val
 
 The next morning we descended the Sapphire road and incredibly ran into our New Zealand friend again at the bottom. We were leaving the region that day, so we had to say our goodbyes but I still think about the odds against running into someone so often across so much land. 
 
-We left Nagano via the Shinkansen, traveling at around 170 mph towards Kyoto. 
+We left Nagano via the Shinkansen, traveling at around 170 mph towards Kyoto.
+
+_Find our routes on [RideWithGPS](https://ridewithgps.com/collections/12142038?privacy_code=lwJbmrOaxzIDgFbECEDJH8rLpUuIw5AZ)._
