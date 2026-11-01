@@ -1,5 +1,5 @@
 Title: A week in the Japanese alps
-Date: 2026-10-12 13:30
+Date: 2026-10-31 13:30
 Category: Bikepacking
 Tags: bikepacking, japan
 Slug: a-week-in-the-japanese-alps
